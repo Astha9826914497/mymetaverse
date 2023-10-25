@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# OUTPUT
 
-## Getting Started
+# Home
 
-First, run the development server:
+![m-1](https://github.com/Astha9826914497/mymetaverse/assets/128206617/60276fa1-e63c-4d77-bcad-286d611d822f)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+![m-2](https://github.com/Astha9826914497/mymetaverse/assets/128206617/50f789e6-b3f5-43f0-b250-157cb382e470)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# About
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![m-3](https://github.com/Astha9826914497/mymetaverse/assets/128206617/3e6bcab8-1cd2-4e8d-8105-3420e54ab1ec)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Explore Page
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![m-4](https://github.com/Astha9826914497/mymetaverse/assets/128206617/fb52d057-ed3e-4efc-9040-22d567df918c)
 
-## Learn More
+# Get Started
 
-To learn more about Next.js, take a look at the following resources:
+![m-5](https://github.com/Astha9826914497/mymetaverse/assets/128206617/4789b44c-3986-4c72-ba53-cb204ca638fe)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# What's New
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![m-6](https://github.com/Astha9826914497/mymetaverse/assets/128206617/a04a0540-a572-4bb9-aeff-94770d6d9d87)
 
-## Deploy on Vercel
+# Find Friends
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![m-7](https://github.com/Astha9826914497/mymetaverse/assets/128206617/19719fe8-7006-4ad4-a135-e9236bbfbaba)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Insights
+
+![m-8](https://github.com/Astha9826914497/mymetaverse/assets/128206617/5f90ebfa-0037-4e32-a933-1f54f034a134)
+
+# Founder Page
+
+![m-9](https://github.com/Astha9826914497/mymetaverse/assets/128206617/5385161c-9e64-489e-97de-7d6b9ddb1e46)
+
+# Join Metaverse
+
+![m-10](https://github.com/Astha9826914497/mymetaverse/assets/128206617/421ef590-b852-459c-8436-931120dc221e)
